@@ -18,7 +18,7 @@
 	
 	3 - Renseigner le fichier config.ini à la racine du projet avec ses identifiants à la base de données
 	
-	4 - Dans un invité de commande se positionner à la racine du projet et lancer la commandes suivantes:
+	4 - Dans un invité de commande se positionner à la racine du projet et lancer la commande suivante:
 		
 		- composer install
 
