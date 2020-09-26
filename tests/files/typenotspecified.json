@@ -1,0 +1,35 @@
+[
+   {
+      "type":"plane",
+      "number":"SK22",
+      "departure_date":"2020-09-30 12:12",
+      "arrival_date":"2020-09-30 19:17",
+      "departure":"Stockholm",
+      "arrival":"New York JFK",
+      "seat":"7B",
+      "gate":"22",
+      "baggage_drop":null
+   },
+   {
+      "type":"train",
+      "number":"78A",
+      "departure":"Stockholm",
+      "arrival":"Barcelona",
+      "seat":"45B"
+   },
+   {
+      "type":"bus",
+      "number":"airport",
+      "departure":"Barcelona",
+      "arrival":"Gerona Airport",
+      "seat":null
+   },
+   {
+      "number":"SK455",
+      "departure":"Gerona Airport",
+      "arrival":"Stockholm",
+      "seat":"3A",
+      "gate":"45B",
+      "baggage_drop":"344"
+   }
+]
