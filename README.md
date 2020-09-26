@@ -21,6 +21,8 @@
 	4 - Dans un invité de commande se positionner à la racine du projet et lancer la commande suivante:
 		
 		- composer install
+		
+	5 - crééer le dossier uploads/ à la racine du projet
 
 - Tests unitaire
 
